@@ -4,6 +4,7 @@ First, clone the repository
 
 ```bash
 git clone https://github.com/rimazk123/censys_submission
+cd censys_submission
 ```
 
 Setup and start your virtual environment
